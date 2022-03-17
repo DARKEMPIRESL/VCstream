@@ -1,6 +1,6 @@
 # VCstream
 
-<p align="center"><a href="http://t.me/darks_vc_bot"><img src="![ff620854b85ca2824e8e3b6b3e5d079e](https://user-images.githubusercontent.com/95665347/158746151-3915d98e-9dd4-4da3-85f3-131ceb5b1417.gif)"></a></p>
+<p align="center"><a href="http://t.me/darks_vc_bot"><img src="https://github.com/DARKEMPIRESLBOTS/VCstream/blob/main/driver/darklogo.gif"></a></p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
