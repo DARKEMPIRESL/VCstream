@@ -1,4 +1,4 @@
-# VCstream
+# <p align="center"><b> VCstream </b></p>
 
 <p align="center"><a href="http://t.me/darks_vc_bot"><img src="https://github.com/DARKEMPIRESLBOTS/VCstream/blob/main/driver/darklogo.gif"></a></p>
 <p align="center">
